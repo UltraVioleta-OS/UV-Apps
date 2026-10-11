@@ -1,2 +1,2 @@
-# UVa-Apps
-Aplicaciones de UVa.
+# UV-Apps
+Aplicaciones de UV.
